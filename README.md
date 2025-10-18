@@ -10,14 +10,13 @@ This repository contains a dataset titled **"Like Netflix, TV shows, and movies.
   The dataset in Excel format containing detailed information about Netflix titles, including:
   - Title  
   - Type (Movie or TV Show)  
-  - Director  
+  - Age Certification Content 
   - Cast  
   - Country  
   - Date Added  
   - Release Year  
-  - Rating  
-  - Duration  
-  - Genres  
+  - Rating IMDB
+  - Quality Content
   - Description  
 
 - **Netflix.pbix**  
